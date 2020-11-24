@@ -24,3 +24,7 @@ It is a virtual manager for one's mess. By using this app one can calculate meal
 * Firebase Database 
 * Material Design 
 * Google Map Api
+
+# Screenshots
+
+## Owner-Side 
