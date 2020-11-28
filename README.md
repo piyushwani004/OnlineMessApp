@@ -27,6 +27,14 @@ It is a virtual manager for one's mess. By using this app one can calculate meal
 
 # Screenshots
 
+## Authentication-Side
+
+![auth](https://user-images.githubusercontent.com/56467741/100522320-ce0ecd80-31cf-11eb-83e3-0c6d53feb3c8.png)
+
 ## Owner-Side 
 
-![Untitled-1](https://user-images.githubusercontent.com/56467741/100066327-f2029580-2e02-11eb-888a-fc2de9532a7c.png)
+![owner](https://user-images.githubusercontent.com/56467741/100522317-c4856580-31cf-11eb-8772-67edb5c7f308.png)
+
+## Customer-Side
+
+![customer](https://user-images.githubusercontent.com/56467741/100522328-db2bbc80-31cf-11eb-8483-a6fa8415f16f.png)
